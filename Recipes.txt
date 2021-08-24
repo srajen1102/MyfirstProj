@@ -4,3 +4,4 @@ welcome
 Kimchi
 japche
 Bimbap
+Done
